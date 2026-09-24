@@ -3,3 +3,4 @@ Late return of books will result in a fine.
 Lost books must be replaced or paid for.
 Books must be returned on or before the due date.
 Books must be returned on or before the due date.
+Maximum fine is Rs. 100.
