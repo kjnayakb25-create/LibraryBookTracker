@@ -1,2 +1,3 @@
 Monthly Library Issue Report
 Issued Books: 25
+Returned Books: 20
